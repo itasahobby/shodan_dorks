@@ -1,0 +1,35 @@
+Jung KNX
+Jeedom
+title: "Centrale" 
+title: "powered by insteon"
+Crestron PYNG-HUB
+wiregate
+Ikettle
+webiopi
+has_screenshot
+P372 port:"23"
+"HQTT Connection Code: 0" set --alarm
+projector
+data projector
+iphone
+product: samsung http
+Chromecast port:"8008"
+port:9080 http:favicon hash:902521196
+os:"playstation 4"
+belden
+
+C4MAX
+"[1m[35mWelcome on console"
+"water plant"
+"fuel oil"
+unleaded
+ABB slave
+Siemens S7
+LabView
+Lantronix - "secured" + "Password:"
+telemetry gateway
+simatic port:161
+Jetty 3.1.8 "200 OK"
+antminer
+"Server: SAP"
+octoprint
